@@ -1,4 +1,4 @@
-# MAIN
+# PERSONAL WEBSITE - DEMO
 Description of the website:
 "Nhlanhla's Personal Site is a platform dedicated to showcasing the professional portfolio and accomplishments of Nhlanhla Mnyandu, the Founder and CTO of Ticamark (PTY) LTD, trading as iSu Technologies. The website provides insights into Nhlanhla's expertise in web and iOS app development, along with his passion for learning and staying updated with the latest technologies. Visitors can explore Nhlanhla's work experience, educational background, skills, and interests. Through engaging content and a user-friendly interface, the website aims to convey Nhlanhla's talents, achievements, and dedication to his craft."
 
